@@ -1,6 +1,6 @@
 # CreativePortfolio
 
-Welcome to CreativePortfolio! This project showcases my work as a web developer, featuring various projects, skills, and a contact form. Built with React and styled using Tailwind CSS, this portfolio demonstrates my expertise in modern web development technologies.
+Welcome to my creative portfolio! This project showcases my web development skills and projects. It is built using React and styled with Tailwind CSS.
 
 ## Table of Contents
 
